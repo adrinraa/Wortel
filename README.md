@@ -41,6 +41,6 @@ If you use this dataset in your work, please cite it:
   title        = {Carrot Dataset},
   year         = {2025},
   publisher    = {GitHub},
-  url          = {https://github.com/aishapurinra/carrot-dataset},
+  url          = {https://github.com/adrinraa/Wortel/tree/master},
   version      = {1.0.0}
 }
